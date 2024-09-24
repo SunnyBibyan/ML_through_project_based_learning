@@ -37,7 +37,7 @@ Mastering machine learning through project-based learning is an excellent approa
 - Linear algebra: matrices, vectors, eigenvalues
 
 **Project:**
-- [Random Data Generation](your-repo-link): Simulate real-world data using statistical methods (e.g., Gaussian distribution) and perform basic analysis.
+- [Random Data Generation](https://github.com/SunnyBibyan/Random_Data_Generation): Simulate real-world data using statistical methods (e.g., Gaussian distribution) and perform basic analysis.
 
 ---
 
