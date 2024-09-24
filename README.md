@@ -79,7 +79,7 @@ Mastering machine learning through project-based learning is an excellent approa
 - Bagging, Random Forest, Boosting (AdaBoost, Gradient Boosting, XGBoost)
 
 **Project:**
-- [Heart Disease Prediction](your-repo-linkhttps://github.com/SunnyBibyan/Credit_Card_Fraud_Detection): Apply Random Forest and Gradient Boosting to predict heart disease based on clinical features.
+- [Heart Disease Prediction](https://github.com/SunnyBibyan/Heart_Disease_Prediction): Apply Random Forest and Gradient Boosting to predict heart disease based on clinical features.
 
 ---
 
