@@ -48,7 +48,7 @@ Mastering machine learning through project-based learning is an excellent approa
 - Feature selection and dimensionality reduction
 
 **Project:**
-- [Customer Churn Prediction](your-repo-link): Clean and preprocess a dataset to predict customer churn using basic preprocessing steps like imputation, encoding, and scaling.
+- [Customer Churn Prediction](https://github.com/SunnyBibyan/Customer_Churn_Prediction): Clean and preprocess a dataset to predict customer churn using basic preprocessing steps like imputation, encoding, and scaling.
 
 ---
 
@@ -79,7 +79,7 @@ Mastering machine learning through project-based learning is an excellent approa
 - Bagging, Random Forest, Boosting (AdaBoost, Gradient Boosting, XGBoost)
 
 **Project:**
-- [Heart Disease Prediction](your-repo-link): Apply Random Forest and Gradient Boosting to predict heart disease based on clinical features.
+- [Heart Disease Prediction](your-repo-linkhttps://github.com/SunnyBibyan/Credit_Card_Fraud_Detection): Apply Random Forest and Gradient Boosting to predict heart disease based on clinical features.
 
 ---
 
