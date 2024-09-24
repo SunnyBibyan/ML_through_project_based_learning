@@ -70,7 +70,7 @@ Mastering machine learning through project-based learning is an excellent approa
 - Evaluation metrics: confusion matrix, precision, recall, F1-score, ROC-AUC
 
 **Project:**
-- [Credit Card Fraud Detection](your-repo-link): Build a classification model to identify fraudulent transactions using logistic regression or decision trees.
+- [Credit Card Fraud Detection](https://github.com/SunnyBibyan/Credit_Card_Fraud_Detection): Build a classification model to identify fraudulent transactions using logistic regression or decision trees.
 
 ---
 
