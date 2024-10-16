@@ -101,7 +101,7 @@ Mastering machine learning through project-based learning is an excellent approa
 - Applications of dimensionality reduction in visualizing high-dimensional data
 
 **Project:**
-- [Handwritten Digit Recognition (PCA + K-Means)](your-repo-link): Reduce the dimensionality of the MNIST dataset using PCA, then cluster similar digits using K-Means.
+- [Handwritten Digit Recognition (PCA + K-Means)](https://github.com/SunnyBibyan/Handwritten-Digit-Recognition-PCA-K-Means-): Reduce the dimensionality of the MNIST dataset using PCA, then cluster similar digits using K-Means.
 
 ---
 
