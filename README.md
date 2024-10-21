@@ -123,7 +123,7 @@ Mastering machine learning through project-based learning is an excellent approa
 - Image preprocessing (normalization, augmentation)
 
 **Project:**
-- [Image Classification](your-repo-link): Build a CNN to classify images from the CIFAR-10 dataset or your own custom dataset.
+- [Image Classification](https://github.com/SunnyBibyan/Image-Classification/tree/main): Build a CNN to classify images from the CIFAR-10 dataset or your own custom dataset.
 
 ---
 
