@@ -133,7 +133,7 @@ Mastering machine learning through project-based learning is an excellent approa
 - LSTMs and GRUs for handling long sequences
 
 **Project:**
-- [Sentiment Analysis on Text Data](your-repo-link): Build an LSTM-based model to perform sentiment analysis on text data (e.g., movie reviews).
+- [Sentiment Analysis on Text Data](https://github.com/SunnyBibyan/Sentiment-Analysis-on-Text-Data): Build an LSTM-based model to perform sentiment analysis on text data (e.g., movie reviews).
 
 ---
 
